@@ -38,7 +38,7 @@
   ```
 
 ### React Native Build:
-- Add the following script in the `package.json` file:
+- Add the following script in the `package.json` file inside script:
   ```json
   "build:ios": "react-native bundle --entry-file='index.js' --bundle-output='./ios/main.jsbundle' --dev=false --platform='iOS'"
   ```

@@ -1,4 +1,4 @@
-**Publishing iOS App to App Store - README**
+**Publishing iOS App to App Store**
 
 ### Prerequisites:
 1. **Mac Setup:**
